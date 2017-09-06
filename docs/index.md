@@ -3,6 +3,6 @@ layout: default
 ---
 # Industrial Devops
 
-Shhhh we are comming soon....
+Ssssh we're comming soon....
 
 
